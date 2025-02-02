@@ -146,7 +146,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # ✅ Main function
 def main():
-    application = Application.builder().token("7732444052:AAGNTQh_YLpL3U9XcAkHFNPq0PNQme9nJOQ").build()
+    application = Application.builder().token("YOUR REAL TOKEN/API KEY FROM BOTFATHER").build()
 
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CallbackQueryHandler(button_handler))
