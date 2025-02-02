@@ -50,7 +50,13 @@ Then, open Telegram and **start chatting with your bot!** 🎉
 ## 📜 Commands  
 - **/start** → Show menu  
 - **/startchallenge** → Begin 21-day challenge  
-- **Send a link** → Save daily post  
+- **Send a link** → Save daily post
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/08078cda-e649-4992-866d-5a983a010169)
+
+**image2**
+![image](https://github.com/user-attachments/assets/e646f02b-fe7f-4159-a8ab-54fc6ee3fdfe)
 
 ---
 
